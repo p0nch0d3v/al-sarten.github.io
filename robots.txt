@@ -1,7 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+
+User-agent: facebookexternalhit
+Allow: /
+
 User-agent: meta-externalagent
 Allow: /
+
 User-agent: *
-Disallow: /
-User-agent: GPTBot 
 Disallow: /
