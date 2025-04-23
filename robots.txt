@@ -1,8 +1,14 @@
 
+User-agent: facebookcatalog
+Allow: /
+
 User-agent: facebookexternalhit
 Allow: /
 
 User-agent: meta-externalagent
+Allow: /
+
+User-agent: meta-externalfetcher
 Allow: /
 
 User-agent: *
